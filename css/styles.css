@@ -17,12 +17,12 @@ li {
     list-style: none
 }
 
-body {
+/* body {
     background-image: url(https://drive.google.com/file/d/1V_fWeq6bzLB5lK2SUqCc3bCqLCViFMVz/view?usp=sharing);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-}
+} */
 
 .texto {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -333,8 +333,8 @@ header .container-fluid {
 .Video {
     cursor: pointer;
     margin-top: 100px;
-    width: 1080px;
-    height: 720px;
+    /* width: 1080px;
+    height: 720px; */
 }
 
 .card:hover {
