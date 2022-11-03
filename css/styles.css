@@ -242,10 +242,10 @@ header .container-fluid {
 .img1 {
     align-items: center;
 }
-
+/* 
 .carousel-inner {
     width: 600px;
-}
+} */
 
 .textoFooter {
     color: white;
